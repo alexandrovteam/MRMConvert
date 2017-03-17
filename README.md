@@ -1,6 +1,6 @@
-# MRMConvert: a workflow for generating regular LC-MS data from the ones acquired in MRM mode.
+# MRMConvert: a workflow for saving MRM mass spectrometry data in LC-MS-like format
 
-MRMConvert is created to increase reusability of existing tools for LC-MS data analysis, at the same time, preserving the exceptional quantification features of MRM instruments.
+MRMConvert converts MRM mass spectrometry data (e.g. from a triplequad MS) into a liquid-chromatography mass spectrometry (LC-MS)-like format. MRMConvert enables to employ existing tools for LC-MS data analysis for MRM MS data.
 
 The workflow is being developed by [Alexandrov Team](http://www.embl.de/research/units/scb/alexandrov/index.html) at EMBL Heidelberg ([contact information](http://www.embl.de/research/units/scb/alexandrov/contact/index.html)).
 
