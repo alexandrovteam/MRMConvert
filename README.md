@@ -16,7 +16,7 @@ The main functional part of the workflow is encapsulated in a single node `Conve
 
 ## System requirements
 
-Only 64-bit operating systems are supported; MS Windows, Linux or Apple OS X. A workstation should provide a level of performance sufficient to run KNIME Analytics plaform and Python interpreter.
+Only 64-bit operating systems are supported; MS Windows, Linux or Apple macOS. A workstation should provide a level of performance sufficient to run KNIME Analytics plaform and Python interpreter.
 
 Note that the workflow makes use of multiple CPU cores to parallelize the conversion procedure.
 
@@ -28,4 +28,4 @@ Find the installation instructions in the [Optimus worfklow repository](https://
 
 ## License
 
-The content of this project is licensed under the Apache 2.0 licence, see LICENSE.md.
+The content of this project is licensed under the Apache 2.0 licence, see the LICENSE file in this repository.
